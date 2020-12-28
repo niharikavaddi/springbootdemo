@@ -1,0 +1,4 @@
+com\springbootjsp\springbootdemojsp\model\User.class
+com\springbootjsp\springbootdemojsp\controller\Controller.class
+com\springbootjsp\springbootdemojsp\ServletInitializer.class
+com\springbootjsp\springbootdemojsp\SpringbootdemojspApplication.class
